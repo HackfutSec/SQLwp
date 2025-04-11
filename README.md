@@ -1,5 +1,5 @@
 # TO MiniProgram SQLi Scanner
-![Banner](https://imgur.com/a/O2JAO7D)*Replace with actual banner image*
+([https://imgur.com/a/O2JAO7D])*Replace with actual banner image*
 
 A specialized SQL injection scanner targeting WordPress sites with the TO MiniProgram plugin vulnerable endpoint.
 
