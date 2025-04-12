@@ -64,7 +64,7 @@ DESC,(SELECT(1)FROM(SELECT(SLEEP(5)))a)--
 
 ## Output Example
 
-![Sample Output](https://imgur.com/a/O2JAO7D) *Replace with actual output screenshot*
+![Sample Output](https://imgur.com/a/O2JAO7D) 
 
 ## Ethical Use
 
